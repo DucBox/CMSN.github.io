@@ -8,10 +8,14 @@
 body{
   margin: 0;
   padding: 0;
-  background: linear-gradient(120deg,#2980b9, #8e44ad);
+  /*background: linear-gradient(120deg,#2980b9, #8e44ad);*/
   height: 100vh;
   overflow: hidden;
+  background: url("https://wallpaperaccess.com/full/1170390.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
 .center{
   position: absolute;
   top: 50%;
